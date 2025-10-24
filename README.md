@@ -29,8 +29,8 @@ Driven by curiosity, I love exploring new ideas. When I’m not coding, you’ll
 </p>
 
 ### where am I learning?
-- 🚀 Dev Full Stack by **RocketSeat**
-- 👩🏻‍💻 Elas+Tech program by **AdaTech**
+- 🚀 **RocketSeat**
+- 👩🏻‍💻 Elas+Tech program by **Ada**
 - Starting Systems Analysis and Development degree in 2026
 
 ### progress
