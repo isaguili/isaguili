@@ -1,8 +1,6 @@
-### 🖐🏼 hey there!
-
-Originally from Minas Gerais, I’m a Physical Education graduate with a postgraduate degree in Project Management, now diving into Full-Stack Web Development.
-
-Driven by curiosity, I love exploring new ideas. When I’m not coding, you’ll probably find me skydiving, hiking trails, or chasing my next adventure.
+ ### Hi there! 🖐
+ 
+Learning Full-Stack Web Development and loving every bit of it. I’m naturally curious and always up for a new challenge. Off-screen, you’ll probably find me skydiving, hiking, or chasing my next adventure.
 
 ### contact me
 <a align="center" href="https://www.linkedin.com/in/isabella-guimaraes-silva/">
@@ -13,7 +11,7 @@ Driven by curiosity, I love exploring new ideas. When I’m not coding, you’ll
    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
-### what am I learning?
+### what am I studying?
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/> 
   <span>&nbsp;&nbsp;&nbsp;</span>
