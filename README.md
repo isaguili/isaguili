@@ -1,6 +1,10 @@
  ### Hi there! 🖐
- 
-Learning Full-Stack Web Development and loving every bit of it. I’m naturally curious and always up for a new challenge. Off-screen, you’ll probably find me skydiving, hiking, or chasing my next adventure.
+
+**PT**
+Estudando Análise e Desenvolvimento de Sistemas e aproveitando cada etapa da jornada. Curiosa por natureza, estou sempre pronta para encarar um novo desafio. Longe das telas, provavelmente estou em busca da minha próxima aventura.
+
+**EN**
+Learning Full-Stack Web Development and enjoying every step of the journey. Naturally curious, I’m always up for a new challenge. Off-screen, you’ll probably find me chasing my next adventure.
 
 ### contact me
 <a align="center" href="https://www.linkedin.com/in/isabella-guimaraes-silva/">
@@ -27,10 +31,5 @@ Learning Full-Stack Web Development and loving every bit of it. I’m naturally 
 </p>
 
 ### where am I learning?
-- 🚀 **RocketSeat**
-- 👩🏻‍💻 Elas+Tech program by **Ada**
-- Starting Systems Analysis and Development degree in 2026
-
-### progress
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isaguili&layout=compact&hide_title=true&hide_border=true&theme=transparent)
+- Centro Universitário UNA - Análise e Desenvolvimento de Sistemas
+- RocketSeat - Trilha FullStack
