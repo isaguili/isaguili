@@ -1,7 +1,7 @@
  ### Hi there! 🖐
 
 **PT**
-Estudando Análise e Desenvolvimento de Sistemas e aproveitando cada etapa da jornada. Curiosa por natureza, estou sempre pronta para encarar um novo desafio. Longe das telas, provavelmente estou em busca da minha próxima aventura.
+Estudando Análise e Desenvolvimento de Sistemas e aproveitando cada etapa da jornada. Curiosa por natureza, estou sempre pronta para encarar um novo desafio. Longe das telas, você provavelmente vai me encontrar em busca da minha próxima aventura.
 
 **EN**
 Learning Full-Stack Web Development and enjoying every step of the journey. Naturally curious, I’m always up for a new challenge. Off-screen, you’ll probably find me chasing my next adventure.
